@@ -2,6 +2,7 @@
 
 ## Overview
 A comprehensive food delivery application that connects users with local restaurants and food vendors. The app features user authentication, restaurant browsing, menu exploration, order management, and delivery tracking with a modern, intuitive interface designed in warm orange and yellow tones.
+## 🎥 Demo Video
 https://github.com/user-attachments/assets/4ce532c2-280d-463b-ab91-0a484a5812f3
 ## Installation & Setup
 
